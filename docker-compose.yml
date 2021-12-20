@@ -56,3 +56,5 @@ services:
       - "./data:/mnt/data"
       - "./lab1_apache_spark:/home/mapr/lab1"
       - "./lab2_apache_reports:/home/mapr/lab2"
+
+
